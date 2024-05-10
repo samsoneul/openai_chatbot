@@ -3,6 +3,7 @@ import routes from "@/services/routes";
 import Router from "./Router";
 import handleNavigationIntent from "./handleNavigationIntent";
 import ErrorMessage from "./ErrorMessage";
+import ChatBox from "@/components/chat/ChatBox";
 
 export default function ApplicationArea() {
   const [currentRoute, setCurrentRoute] = useState(null);
