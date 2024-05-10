@@ -111,7 +111,7 @@ export default function ChatBox() {
       <div className='chatcontainer'>
         <div>
             <div className='headbox'>
-              <p>query, visualize with AI</p>
+              <p>query, visualizey with AI</p>
             </div>
 
             <div className='chatbox'>
