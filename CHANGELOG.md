@@ -1323,7 +1323,7 @@ This is a patch release, that adds support for Redshift ACM certificates (see #2
 ### Other
 
 - [#1555] Change sourcemaps to generate a sourcemap per module. (@44px)
-- [#1570] Fix Docker Compose configuration for nginx. (@btmc)
+- [#1570] Fix docker-compose configuration for nginx. (@btmc)
 - [#1582] Update Dockerfile to build frontend assets and update the folder ownership.
 - Dockerfile: change the uid of the redash user to match host user uid.
 - Update npm-shrinkwrap.json file to use http proctocol instead of git. (@deecay)
